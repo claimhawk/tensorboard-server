@@ -1,0 +1,13 @@
+[project]
+name = "tensorboard-server"
+version = "0.1.0"
+description = "Standalone TensorBoard server for ClaimHawk trainers"
+requires-python = ">=3.11"
+dependencies = [
+    "modal>=0.64.0",
+    "tensorboard>=2.14.0",
+    "rich>=13.0.0",
+]
+
+[project.scripts]
+tb-cleanup = "scripts.cleanup:main"
