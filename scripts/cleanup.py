@@ -1,5 +1,7 @@
-# Copyright 2025 Tylt, Inc.
-# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Tylt LLC. All rights reserved.
+# Licensed for research use only. Commercial use requires a license from Tylt LLC.
+# Contact: hello@claimhawk.app | See LICENSE for terms.
+
 """
 Interactive TensorBoard Log Cleanup Tool
 
