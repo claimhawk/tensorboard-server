@@ -52,3 +52,17 @@
 - **Development period**: 2025-12-04 (single day)
 - **Key features**: Dual TensorBoard endpoints, interactive cleanup tool
 - **Lines of code**: ~280 (tb_server.py: ~84, cleanup.py: ~287)
+
+---
+
+## AI-Assisted Development
+
+Built by 1 developer + AI (Claude Code). 1 commit in 1 day.
+
+### Cost Comparison
+
+- **Traditional:** 1 developer @ $150k/yr for 2-3 days = **$1-2k**
+- **Actual:** 1 developer + AI, 1 day = **$150-300**
+- **Savings: ~85%**
+
+Complete TensorBoard infrastructure with dual endpoints and interactive cleanup.
