@@ -1,54 +1,57 @@
-TYLT LLC INTERNAL PROPRIETARY LICENSE
+# ClaimHawk Source Available License
 
-Copyright (c) 2025 Tylt LLC. All Rights Reserved.
+Copyright (c) 2025 Tylt LLC. All rights reserved.
 
-CONFIDENTIAL AND PROPRIETARY
+## Summary
 
-This software and associated documentation files (the "Software") are the
-exclusive proprietary and confidential property of Tylt LLC.
+- ✅ **Research & Education**: Free to use, modify, and share
+- ✅ **Personal Projects**: Free for non-commercial use
+- ❌ **Commercial Use**: Requires a license agreement
 
-1. OWNERSHIP
+## Terms
 
-   Tylt LLC retains all right, title, and interest in and to the Software,
-   including all intellectual property rights. No rights are granted except
-   as explicitly stated herein.
+### Permitted Uses (No License Required)
 
-2. AUTHORIZED USE
+You may use, copy, modify, and distribute this software for:
 
-   The Software is licensed solely for internal use by Tylt LLC and its
-   authorized employees, contractors, and agents acting within the scope
-   of their engagement with Tylt LLC.
+1. **Academic research** at educational institutions
+2. **Personal learning** and skill development
+3. **Non-commercial projects** that generate no revenue
+4. **Evaluation** to determine suitability for your needs
 
-3. RESTRICTIONS
+### Commercial Use (License Required)
 
-   You may NOT:
-   (a) Use the Software for any purpose outside of Tylt LLC business;
-   (b) Copy, distribute, sublicense, sell, or transfer the Software;
-   (c) Disclose the Software or any portion thereof to any third party;
-   (d) Remove or alter any proprietary notices;
-   (e) Reverse engineer, decompile, or disassemble the Software;
-   (f) Use the Software for personal projects or research unrelated to
-       Tylt LLC business operations.
+A commercial license is required if you:
 
-4. NO EXTERNAL LICENSING
+1. Use this software in a product or service that generates revenue
+2. Use this software to provide services to paying customers
+3. Incorporate this software into proprietary products
+4. Use this software in a business context for competitive advantage
 
-   This Software is NOT available for external licensing, commercial or
-   otherwise. No research use, academic use, or any other external use
-   is permitted.
+### How to Obtain a Commercial License
 
-5. CONFIDENTIALITY
+Contact us to discuss licensing:
 
-   The Software constitutes trade secrets and confidential information
-   of Tylt LLC. Unauthorized disclosure may result in legal action.
+📧 **hello@claimhawk.app**
 
-6. NO WARRANTY
+Licensing terms are flexible and based on your use case.
 
-   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
-   OR IMPLIED.
+### Attribution
 
-7. TERMINATION
+If you use this software in research or publications, please cite:
 
-   This license terminates automatically upon termination of your
-   relationship with Tylt LLC or upon any breach of these terms.
+```
+ClaimHawk - Computer Use AI Platform
+https://github.com/claimhawk
+Copyright (c) 2025 Tylt LLC
+```
 
-For inquiries: hello@claimhawk.app
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
