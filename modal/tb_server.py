@@ -70,13 +70,13 @@ def tensorboard_router():
     """
     TensorBoard for MoE router trainer runs.
 
-    Serves logs from /moe-data/tb_logs/{dataset_name}/{run_name}/
+    Serves logs from /moe-data/tensorboard/{dataset_name}/{run_name}/
     """
     import subprocess
 
     subprocess.Popen([
         "tensorboard",
-        "--logdir=/moe-data/tb_logs",
+        "--logdir=/moe-data/tensorboard",
         "--host=0.0.0.0",
         "--port=6007",
         "--reload_interval=30",
